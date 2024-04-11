@@ -34,11 +34,11 @@ const Header = () => {
             })}
             <li className="lg:hidden block">
               {" "}
-              <Commonbutton btnname="Sing up" />
+              <Commonbutton btnname="Sign up" />
             </li>
           </ul>
           <div className="lg:block hidden">
-            <Commonbutton btnname="Sing up" />
+            <Commonbutton btnname="Sign up" />
           </div>
           <div className="lg:hidden relative z-50">
             <Hamburger
