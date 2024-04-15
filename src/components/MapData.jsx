@@ -4,6 +4,11 @@ import {
   UtilitiesSvg,
   GenerationSvg,
 } from "./IconImg";
+import boltshiftimg from "../assets/images/png/boltshiftimg.png";
+import lightbox from "../assets/images/png/lightboximg.png";
+import featherdevimg from "../assets/images/png/featherdevimg.png";
+import spheruleimg from "../assets/images/png/spheruleimg.png";
+import globalbankimg from "../assets/images/png/globalbank.png";
 
 export const Navdata = [
   {
@@ -49,8 +54,34 @@ export const Carddata = [
   {
     svg: <GenerationSvg />,
     heading: "Image Generation",
-    content: 
+    content:
       "Transform productivity with our sophisticated automation tools. Let technology work tirelessly behind the scenes, so your creativity never has to pause.",
     width: "w-[526px]",
+  },
+];
+export const slidedata = [
+  {
+    link: "https://paulmbingu.com/",
+    Image: boltshiftimg,
+  },
+  {
+    link: "https://getuikit.com/",
+    Image: lightbox,
+  },
+  {
+    link: "https://feathermc.com/",
+    Image: featherdevimg,
+  },
+  {
+    link: "https://spherule.org/",
+    Image: spheruleimg,
+  },
+  {
+    link: "https://www.globalbank.com.pa/en",
+    Image: globalbankimg,
+  },
+  {
+    link: "https://feathermc.com/",
+    Image: featherdevimg,
   },
 ];
