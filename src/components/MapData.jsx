@@ -35,28 +35,28 @@ export const Carddata = [
     heading: "Content Deepfakes",
     content:
       "Seize control and elevate your business with our hyper-realistic AI content creation. Immerse in a blend of artistry and technology that promises unparalleled authenticity",
-    width: "w-[526px]",
+    width: "lg:w-[526px] md:w-[45%] w-full",
   },
   {
     svg: <VerificationSvg />,
     heading: "AI Verifications",
     content:
       "Streamline your workflow with our AI verification system that boasts a stellar 80% first-time success rate.",
-    width: "w-[416px]",
+    width: "lg:w-[416px] md:w-[45%] w-full",
   },
   {
     svg: <UtilitiesSvg />,
     heading: "Content Utilities",
     content:
       "Consolidate your resources with our comprehensive content utilities. Access everything you need from a single dashboard.",
-    width: "w-[416px]",
+    width: "lg:w-[416px] md:w-[45%] w-full",
   },
   {
     svg: <GenerationSvg />,
     heading: "Image Generation",
     content:
       "Transform productivity with our sophisticated automation tools. Let technology work tirelessly behind the scenes, so your creativity never has to pause.",
-    width: "w-[526px]",
+    width: "lg:w-[526px] md:w-[45%] w-full",
   },
 ];
 export const slidedata = [

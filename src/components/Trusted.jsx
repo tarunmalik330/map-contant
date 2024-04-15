@@ -68,7 +68,8 @@ const Trusted = () => {
                       <a
                         href={slides.link}
                         target="blank"
-                        className="flex items-center justify-center opacity-40 hover:opacity-100 transition-all duration-300 ease-linear"
+                              className="flex items-center justify-center opacity-40 hover:opacity-100 
+                        transition-all duration-300 ease-linear"
                       >
                         <img src={slides.Image} alt="sliderimg" />
                       </a>
