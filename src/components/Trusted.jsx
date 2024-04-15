@@ -56,7 +56,7 @@ const Trusted = () => {
     <>
       <div className="bg-[#040403]">
         <div className="w-full mx-auto xl:max-w-[1240px] xl:px-5 lg:pt-12">
-          <div className="pt-10">
+          <div className="max-lg:pt-10">
             <h4 className="text-xs font-normal text-[#EAECF0] pb-8 text-center leading-[120%]">
               Trusted by 4,000+ companies
             </h4>
